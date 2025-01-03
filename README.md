@@ -48,7 +48,9 @@
 
 ![task 17_1](https://github.com/user-attachments/assets/0470b844-e192-43bf-ba9d-7df4a37d1888)
 ![task 17_2](https://github.com/user-attachments/assets/9447b5f4-ec1a-4551-b2a5-ed641f9090b4)
-# Countries with Low Population Density 
 
+# Countries with Low Population Density 
 ![task 18](https://github.com/user-attachments/assets/62e7a4b8-29ab-49f9-8835-9bc38ca0f182)
 ![task 18_2](https://github.com/user-attachments/assets/e36968bf-2c29-41a7-863b-3ced9aeb8090)
+
+
